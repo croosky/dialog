@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "@types/jest": "^24.9.0",
+    "puppeteer": "^2.0.0",
+    "hs-test-web": "https://github.com/hyperskill/hs-test-web/archive/v1.tar.gz",
+    "hs-test-web-server": "https://github.com/hyperskill/hs-test-web-server/archive/v1.tar.gz",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "start": "node node_modules/hs-test-web-server/start.js"
+  }
+}
